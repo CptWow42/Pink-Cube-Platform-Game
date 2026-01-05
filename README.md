@@ -18,7 +18,7 @@ A retro-style platformer game featuring a pink cube navigating through platforms
 - **Restart**: R
 
 ## Live Demo
-Play instantly: https://cptwow42.github.io/Pink-Cube-Game/
+Play instantly: https://cptwow42.github.io/Pink-Cube-Platform-Game/
 
 ## Features
 - Retro 8-bit style graphics
