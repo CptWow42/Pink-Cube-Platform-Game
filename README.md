@@ -4,8 +4,6 @@
 
 A retro-style platformer game featuring a pink cube navigating through platforms, collecting coins, and avoiding the abyss.
 
-![Game Screenshot](https://via.placeholder.com/800x400/1a1a2e/ff6b8b?text=Pink+Cube+Platform+Game)
-
 ## 🎮 How to Play
 
 1. **Open the [Live Demo](https://cptwow42.github.io/Pink-Cube-Platform-Game/)**
