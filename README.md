@@ -1,45 +1,57 @@
-# Pink Cube Adventure
+# Pink Cube Platform Game 🎮
 
-A retro-style platformer game featuring a pink cube navigating through platforms and collecting coins.
+**Live Demo: [Play Now](https://cptwow42.github.io/Pink-Cube-Platform-Game/)**
 
-## How to Play
+A retro-style platformer game featuring a pink cube navigating through platforms, collecting coins, and avoiding the abyss.
 
-1. Open `index.html` in your web browser
+![Game Screenshot](https://via.placeholder.com/800x400/1a1a2e/ff6b8b?text=Pink+Cube+Platform+Game)
+
+## 🎮 How to Play
+
+1. **Open the [Live Demo](https://cptwow42.github.io/Pink-Cube-Platform-Game/)**
 2. Use arrow keys or WASD to move
 3. Press Space, Up Arrow, or W to jump
 4. Collect all coins and reach the end to win!
 5. Avoid falling off the platforms
 6. Press 'R' to restart if you lose
 
-## Controls
+### Controls
 - **Move Left**: ← or A
 - **Move Right**: → or D
 - **Jump**: ↑, W, or Spacebar
 - **Restart**: R
 
-## Live Demo
-Play instantly: https://cptwow42.github.io/Pink-Cube-Platform-Game/
+## 🚀 Quick Start
 
-## Features
-- Retro 8-bit style graphics
-- Smooth platformer physics
-- Coin collection system
-- Win/lose conditions
-- Camera that follows the player
-- Responsive controls
+### Play Online
+Simply visit: [https://cptwow42.github.io/Pink-Cube-Platform-Game/](https://cptwow42.github.io/Pink-Cube-Platform-Game/)
 
-## File Structure
-- `index.html` - Main HTML file
-- `style.css` - Styling and layout
-- `script.js` - Game logic and mechanics
+### Run Locally
+```bash
+# Clone the repository
+git clone https://github.com/CptWow42/Pink-Cube-Platform-Game.git
 
-## Technologies Used
-- HTML5 Canvas
-- Vanilla JavaScript
-- CSS3
-- Google Fonts (Press Start 2P)
+# Open in browser
+cd Pink-Cube-Platform-Game
+open index.html  # or double-click index.html
+📁 Project Structure
+index.html - Main HTML file
 
-## How to Run Locally
-1. Clone or download this repository
-2. Open `index.html` in any modern web browser
-3. No additional setup required!
+style.css - Styling and layout
+
+script.js - Game logic and mechanics
+
+🛠️ Technologies
+HTML5 Canvas
+
+Vanilla JavaScript
+
+CSS3
+
+Google Fonts (Press Start 2P)
+
+📝 License
+MIT License - feel free to use and modify!
+
+👤 Author
+CptWow42 - GitHub Profile
