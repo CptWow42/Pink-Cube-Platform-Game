@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pink Cube Adventure</title>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="game-container">
+        <h1 id="game-title">PINK CUBE ADVENTURE</h1>
+        <canvas id="gameCanvas" width="800" height="400"></canvas>
+        
+        <div id="controls">
+            <div>Move: <span class="key">←</span> <span class="key">→</span> or <span class="key">A</span> <span class="key">D</span></div>
+            <div>Jump: <span class="key">↑</span> or <span class="key">W</span> or <span class="key">SPACE</span></div>
+        </div>
+        
+        <div id="instructions">
+            <p>Help the pink cube navigate through the platforms! Avoid falling into the abyss.</p>
+        </div>
+        
+        <div id="game-info">
+            <div id="score">Score: 0</div>
+            <div id="status"></div>
+        </div>
+    </div>
+    
+    <script src="game.js"></script>
+</body>
+</html>
