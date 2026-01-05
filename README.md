@@ -31,7 +31,7 @@ Play instantly: https://cptwow42.github.io/Pink-Cube-Platform-Game/
 ## File Structure
 - `index.html` - Main HTML file
 - `style.css` - Styling and layout
-- `game.js` - Game logic and mechanics
+- `script.js` - Game logic and mechanics
 
 ## Technologies Used
 - HTML5 Canvas
